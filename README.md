@@ -10,6 +10,6 @@ Dale a "Fistrum" para que te salga ese pedaso de texto Chiquito en estado puro. 
 ¡Jarl!
 
 Creado por:  
-[Isabel Nieto](https://web.archive.org/web/20241105224859/https://www.behance.net/IsabelNieto),  
-[Carlos A. Hernández](https://web.archive.org/web/20241105224859/http://www.calberhs.com/),  
-y [Gauss Multimedia](https://web.archive.org/web/20241105224859/http://www.gaussmultimedia.com/)
+[Isabel Nieto](https://www.behance.net/IsabelNieto),  
+[Carlos A. Hernández](http://www.calberhs.com/),  
+y [Gauss Multimedia](http://www.gaussmultimedia.com/)
